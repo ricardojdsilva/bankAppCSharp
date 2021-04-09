@@ -1,0 +1,10 @@
+D:\Douglas\CSIS-1175-002-Introduc Program I\Ricardo_Assignment3_002\Ricardo_Assignment3_002\obj\Debug\Ricardo_Assignment3_002.csprojAssemblyReference.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\Ricardo_Assignment3_002\Ricardo_Assignment3_002\obj\Debug\Ricardo_Assignment3_002.BankAccountApp.resources
+D:\Douglas\CSIS-1175-002-Introduc Program I\Ricardo_Assignment3_002\Ricardo_Assignment3_002\obj\Debug\Ricardo_Assignment3_002.Properties.Resources.resources
+D:\Douglas\CSIS-1175-002-Introduc Program I\Ricardo_Assignment3_002\Ricardo_Assignment3_002\obj\Debug\Ricardo_Assignment3_002.csproj.GenerateResource.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\Ricardo_Assignment3_002\Ricardo_Assignment3_002\obj\Debug\Ricardo_Assignment3_002.csproj.CoreCompileInputs.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\Ricardo_Assignment3_002\Ricardo_Assignment3_002\bin\Debug\Ricardo_Assignment3_002.exe.config
+D:\Douglas\CSIS-1175-002-Introduc Program I\Ricardo_Assignment3_002\Ricardo_Assignment3_002\bin\Debug\Ricardo_Assignment3_002.exe
+D:\Douglas\CSIS-1175-002-Introduc Program I\Ricardo_Assignment3_002\Ricardo_Assignment3_002\bin\Debug\Ricardo_Assignment3_002.pdb
+D:\Douglas\CSIS-1175-002-Introduc Program I\Ricardo_Assignment3_002\Ricardo_Assignment3_002\obj\Debug\Ricardo_Assignment3_002.exe
+D:\Douglas\CSIS-1175-002-Introduc Program I\Ricardo_Assignment3_002\Ricardo_Assignment3_002\obj\Debug\Ricardo_Assignment3_002.pdb
